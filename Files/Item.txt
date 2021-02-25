@@ -1,0 +1,9 @@
+1,shirt,100
+2,shirt,100
+3,pants,200
+4,aaaa,300
+6,cccc,133
+7,asas,378
+8,fridg,270
+9,selad,12
+0,null,0
